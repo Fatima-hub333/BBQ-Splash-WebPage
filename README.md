@@ -1,12 +1,12 @@
-![](https://img.shields.io/badge/GoogleClone-blueviolet)
+![](https://img.shields.io/badge/BBQSplash-blueviolet)
 
-# Google_clone
-It's static google clone built with HTML, CSS
+# BBQ Splash WebPage
+Its a responsive BBQ Splash web page built with HTML5, CSS3, CSS-flexbox.
 
-![screenshot](Google_Clone.png)
+![screenshot](images/preview-BBQ.png)
 
 ## [LiveDemo] 
-(https://zesty-smakager-1f2b9d.netlify.app)
+(https://fastidious-moonbeam-7d8d8a.netlify.app)
 
 ## Built With
 
@@ -24,10 +24,10 @@ Basic knowledge of HTML, CSS.
 ### Setup
 If you installed git you can clone the code to your machine, or download a ZIP of all the files directly.
 
-[Download the ZIP from this location](https://github.com/Fatima-hub333/Google_clone/archive/refs/heads/main.zip), or run the following [git](https://git-scm.com/downloads) command to clone the files to your machine:
+[Download the ZIP from this location](https://github.com/Fatima-hub333/BBQ-Splash-WebPage/archive/refs/heads/main.zip), or run the following [git](https://git-scm.com/downloads) command to clone the files to your machine:
 
 ```bash
-git clone https://github.com/Fatima-hub333/Google_clone.git
+git clone https://github.com/Fatima-hub333/BBQ-Splash-WebPage.git
 ```
 
 - Once the files are on your machine, open the _Portfolio_ folder in [Visual Studio Code](https://code.visualstudio.com/).
@@ -54,7 +54,7 @@ The following tools help make easier to work with sample code.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Fatima-hub333/Google_clone/issues).
+Feel free to check the [issues page](https://github.com/Fatima-hub333/BBQ-Splash-WebPage/issues).
 
 ## Show your support
 
